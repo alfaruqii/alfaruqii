@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faruqi==============================================================================================================================Junior Front-end Developer & Student------------------------------------Faruqi is a junior self taught programmer that focuses on front-end developer stuff and also a student that always loves learning new technology, in his spare time he is usually playing volleyball or reads few books* 🌍  I'm based in Indonesia, Jakarta* 🖥️  See my portfolio at [Website](http://alfaruqidoang.vercel.app)* ✉️  You can contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)* 🧠  I'm learning everything Typescript
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faruqi
+==============================================================================================================================
+Junior Front-end Developer & Student
+------------------------------------
+Faruqi is a junior self taught programmer that focuses on front-end developer stuff and also a student that always loves learning new technology, in his spare time he is usually playing volleyball or reads few books
+* 🌍  I'm based in Indonesia, Jakarta
+* 🖥️  See my portfolio at [Website](http://alfaruqidoang.vercel.app)
+* ✉️  You can contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
+* 🧠  I'm learning everything Typescript
 
 ### Skills
 
