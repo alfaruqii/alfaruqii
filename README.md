@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faruqi
 ==============================================================================================================================
 
-Junior Front-end Developer & Student
+College Student
 ------------------------------------
 
 Faruqi is a junior self taught programmer that focuses on front-end developer stuff and also a student that always loves learning new technology, in his spare time he is usually playing volleyball or reads few books
