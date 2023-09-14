@@ -7,7 +7,7 @@ College Student
 Faruqi is a junior self taught programmer that focuses on front-end developer stuff and also a student that always loves learning new technology, in his spare time he is usually playing volleyball or reads few books
 
 *   🌍  I'm based in Indonesia, Jakarta
-*   🖥️  See my portfolio at [Website](http://alfaruqidoang.vercel.app)
+*   🖥️  See my portfolio at [My Website](http://alfaruqidoang.vercel.app)
 *   ✉️  You can contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
 *   🧠  I'm learning everything Typescript
 
