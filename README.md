@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faruqi
+Hi, My name is Faruqi
 ==============================================================================================================================
 
 College Student
@@ -9,7 +9,7 @@ Faruqi is a college student that always loves learning new technology, in his sp
 *   🌍  I'm based in Indonesia, Jakarta
 *   🖥️  See my portfolio at [My Website](http://alfaruqidoang.vercel.app)
 *   ✉️  You can contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
-*   🧠  I'm learning everything Typescript
+*   🧠  I'm learning everything about Java, Typescript
 
 ### Skills 
 <p align="left">
