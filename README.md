@@ -9,7 +9,7 @@ just a regular dude that love old tech
 *   🌍  Indonesia, Jakarta
 *   🖥️  More about me at [My Website](http://alfaruqidoang.vercel.app)
 *   ✉️  Contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
-*   🧠  Still learning everything about Java, Typescript
+*   🧠  Learning everything about Java, Typescript
 
 ### Skills 
 <p align="left">
