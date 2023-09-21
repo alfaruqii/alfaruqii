@@ -6,10 +6,10 @@ College Student
 
 just a regular dude that love old tech
 
-*   🌍  I'm based in Indonesia, Jakarta
-*   🖥️  See my portfolio at [My Website](http://alfaruqidoang.vercel.app)
-*   ✉️  You can contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
-*   🧠  I'm learning everything about Java, Typescript
+*   🌍  Indonesia, Jakarta
+*   🖥️  More about me at [My Website](http://alfaruqidoang.vercel.app)
+*   ✉️  Contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
+*   🧠  Still learning everything about Java, Typescript
 
 ### Skills 
 <p align="left">
