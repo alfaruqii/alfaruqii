@@ -4,7 +4,7 @@ Hi, My Name is Faruqi
 College Student
 ------------------------------------
 
-just a regular dude that love old tech
+just a regular dude who love old tech
 
 *   🌍  Indonesia, Jakarta
 *   🖥️  More about me at [my website](http://alfaruqidoang.vercel.app)
