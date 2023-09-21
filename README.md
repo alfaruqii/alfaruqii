@@ -4,7 +4,7 @@ Hi, My Name is Faruqi
 College Student
 ------------------------------------
 
-Faruqi is a college student that always loves learning new technology, in his spare time he is usually playing volleyball or reads few books
+just a regular dude that love old tech
 
 *   🌍  I'm based in Indonesia, Jakarta
 *   🖥️  See my portfolio at [My Website](http://alfaruqidoang.vercel.app)
