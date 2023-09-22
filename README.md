@@ -3,8 +3,7 @@ Hi, My Name is Faruqi
 
 College Student
 ------------------------------------
-
-just a regular dude who love old tech
+love old tech
 
 *   🌍  Indonesia, Jakarta
 *   🖥️  More about me at [my website](http://alfaruqidoang.vercel.app)
