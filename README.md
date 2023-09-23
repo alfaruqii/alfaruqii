@@ -3,14 +3,15 @@ Hi, My Name is Faruqi
 
 College Student
 ------------------------------------
+<div>
+ <img align="left" style="margin-right: 1.5r" alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>
 
-<img align="left" alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>
+ &nbsp *   🌍  Indonesia, Jakarta
+ &nbsp *   🖥️  More about me at [my website](http://alfaruqidoang.vercel.app)
+ &nbsp *   ✉️  Contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
+ &nbsp *   🧠  Learning everything about Java, Typescript
 
-  *   🌍  Indonesia, Jakarta
-  *   🖥️  More about me at [my website](http://alfaruqidoang.vercel.app)
-  *   ✉️  Contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
-  *   🧠  Learning everything about Java, Typescript
-
+</div>
 <div align="left">
   
 ### Skills 
