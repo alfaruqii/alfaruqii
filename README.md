@@ -7,8 +7,8 @@ College Student
   <div align="left">
   <img alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>  
   </div>
-
 </div>
+
 *  🌍  Indonesia, Jakarta
 *  🖥️  More about me at [my website](http://alfaruqidoang.vercel.app)
 *  ✉️  Contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
