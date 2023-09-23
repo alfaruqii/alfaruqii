@@ -3,8 +3,8 @@ Hi, My Name is Faruqi
 
 College Student
 ------------------------------------
-![Alt Text](https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif =200x200)
-love old tech
+![Alt Text](https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif | width=200)
+<p>love old tech</p>
 
 *   🌍  Indonesia, Jakarta
 *   🖥️  More about me at [my website](http://alfaruqidoang.vercel.app)
