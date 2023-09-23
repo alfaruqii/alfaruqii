@@ -3,7 +3,7 @@ Hi, My Name is Faruqi
 
 College Student
 ------------------------------------
-(![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif))
+![Alt Text](https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif)
 love old tech
 
 *   🌍  Indonesia, Jakarta
