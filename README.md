@@ -3,12 +3,8 @@ Hi, My Name is Faruqi
 
 College Student
 ------------------------------------
-<div style="flex;">
-  <div align="left">
-  <img alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>  
-  </div>
-</div>
 
+<img align="left" alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>
 
 *   🌍  Indonesia, Jakarta
 *   🖥️  More about me at [my website](http://alfaruqidoang.vercel.app)
