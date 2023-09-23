@@ -4,7 +4,9 @@ Hi, My Name is Faruqi
 College Student
 ------------------------------------
 <div display="flex">
-  <img alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>
+  <div>
+  <img alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>  
+  </div>
   <div>
     <p>🌍  Indonesia, Jakarta</p>
     <p>🖥️  More about me at [my website](http://alfaruqidoang.vercel.app)</p>
