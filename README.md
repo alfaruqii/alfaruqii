@@ -3,7 +3,7 @@ Hi, My Name is Faruqi
 
 College Student
 ------------------------------------
-<div style="flex;">
+<div style="flex">
   <div>
   <img alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>  
   </div>
