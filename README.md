@@ -11,7 +11,7 @@ College Student
   *   ✉️  Contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
   *   🧠  Learning everything about Java, Typescript
 
-<div>
+<div align="left">
   
 ### Skills 
 <p align="left">
@@ -27,7 +27,7 @@ College Student
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 </div>
-<div>
+<div align="left">
   
 ### Socials
 <p align="left"> <a href="https://www.github.com/alfaruqii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammad-ismail-alfaruqi-42207b207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
