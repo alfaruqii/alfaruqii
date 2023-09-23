@@ -9,10 +9,11 @@ College Student
   </div>
 </div>
 
-*  🌍  Indonesia, Jakarta
-*  🖥️  More about me at [my website](http://alfaruqidoang.vercel.app)
-*  ✉️  Contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
-*  🧠  Learning everything about Java, Typescript, etc
+*   🌍  Indonesia, Jakarta
+*   🖥️  More about me at [my website](http://alfaruqidoang.vercel.app)
+*   ✉️  Contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com)
+*   🧠  Learning everything about Java, Typescript
+
 
 ### Skills 
 <p align="left">
