@@ -6,7 +6,7 @@ College Student
 
  <img alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>
 
-  🖥️  More about me at [my website](http://alfaruqidoang.vercel.app) <br/>
+  🖥️  More about me at [my website](http://alfaruqi.vercel.app) <br/>
   ✉️  Contact me at [muhammadismailalfaruqi@gmail.com](mailto:muhammadismailalfaruqi@gmail.com) <br/>
   🧠  Learning everything about Java, Typescript, etc <br/>
 
