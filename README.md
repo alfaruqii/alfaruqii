@@ -25,6 +25,8 @@ College Student
  <a href="https://vuejs.org/guide/introduction.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="VueJS" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="36" height="36" alt="Linux" /></a>
+<a href="https://www.lunarvim.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=neovim&theme=light" width="36" height="36" alt="Neovim" /></a>
 </p>
 </div>
 <div>
