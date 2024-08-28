@@ -1,9 +1,6 @@
 📝 Hi, I'm Faruqi
 ==============================================================================================================================
 
-College Student
-------------------------------------
-
  <img alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>
 
   🖥️  More about me at [my website](http://alfaruqi.vercel.app) <br/>
