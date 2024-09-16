@@ -29,5 +29,5 @@
 <div>
   
 ### Socials
-<p align="left"> <a href="https://www.github.com/alfaruqii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammad-ismail-al-faruqi-42207b207" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codewars.com/users/faruqi" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/d67f38aac82de2427626429f3372c220f253031bea91ae37bbf9cb7d7549dcd4/68747470733a2f2f646f63732e636f6465776172732e636f6d2f6c6f676f2e737667" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammad-ismail-al-faruqi-42207b207" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 </div>
