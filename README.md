@@ -1,7 +1,4 @@
-📝 Hi, I'm Faruqi
-==============================================================================================================================
-
- <img alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>
+<img alt="Lain" src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250"/>
 <div>
   
 ### Skills 
